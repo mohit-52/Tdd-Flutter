@@ -6,14 +6,8 @@ This project demonstrates the implementation of **Clean Architecture** principle
 
 ## Features
 
-- **Social Login**: Integration with popular platforms for user authentication.
-- **Onboarding Screens**: A visually engaging introduction for new users.
-- **Course Management**: Browse, view, and manage courses.
-- **Group Chat**: Real-time group discussions for learners.
-- **Notifications**: Receive updates and manage alerts.
-- **Profile Management**: Create, update, and delete user profiles, including image uploads.
-- **Admin Panel**: Upload and manage videos, exams, and other content.
-- **Firebase Integration**: Backend services for authentication and data management.
+- **REST API**: Integration with mockAPI for GET and POST request with exception handling.
+=
 
 ---
 
